@@ -23,8 +23,10 @@ Let's begin.
 <b>Lab 1:</b>
 Steps:
 <ol>
-<li>After login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and click on the submenu <b>Compartments</b> as shown in image below:
+<li>After login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and navigate the mouse to the submenu <b>Compartments</b> as shown in image below:
 </li>
 <img height="400px" src="/images/GotoCompartmentsMenu.png"/>
-<li>Click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/>, and find in the details as shown in image below</li>
+<li>Click on <b>Compartments</b>. On next page, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
+<img height="400px" src="/images/CreateCompartment_HOL"/>
+<li>Fill in the details as shown above</li>
 </ol>
