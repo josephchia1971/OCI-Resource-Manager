@@ -27,6 +27,6 @@ Steps:
 </li>
 <img height="400px" src="/images/GotoCompartmentsMenu.png"/>
 <li>Click on <b>Compartments</b>. On next page, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
-<img height="400px" src="/images/CreateCompartment_HOL"/>
+<img height="400px" src="/images/CreateCompartmentHOL"/>
 <li>Fill in the details as shown above</li>
 </ol>
