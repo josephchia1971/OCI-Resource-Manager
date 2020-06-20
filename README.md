@@ -15,7 +15,7 @@ Prerequisites
 <li>
      SSH Keys. Follow instructions <a href="#">here</a>
 
-<label style="font-style:bold;">Fact:</label>
+<div style="font-style:bold;">Fact:</div>
 Terraform is a tool for "infrastructure-as-code". 
 OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. 
 
@@ -24,7 +24,7 @@ Let's begin.
 Lab 1:
 Steps:
 <ol>
-<li>On landing page after login to your OCI account, click up the hamburger menu on the left hand corner. Scroll down to <b>Identity</b> and click on the submenu <b>Compartments</b> as shown in image below:
+<li>On landing page after login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and click on the submenu <b>Compartments</b> as shown in image below:
 </li>
 <img height="400px" src="/images/GotoCompartmentsMenu.png"/>
 </ol>
