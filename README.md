@@ -25,6 +25,7 @@ OCI Resource Manager is service that allows you to leverage on Terraform to auto
 </ul>
 
 Let's begin.
+<hr>
 
 <b>Lab 1:</b>
 Steps:
@@ -36,5 +37,5 @@ Steps:
 <li>Click on <b>Compartments</b>. On next page, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
 <hr>
 <img height="400px" src="/images/CreateCompartmentHOL.png"/>
-<li>Fill in the details as shown above</li>
+<li>Fill in the details as shown above, and click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
 </ol>
