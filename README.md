@@ -1,8 +1,7 @@
 # OCI-Resource-Manager
-Hands On Labs (HOL) using Resource Manager (Terraform) to create VCN, Compute and DBCS
+Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).
 
-Objective:
-This lab will show you how to use Oracle Cloud Infrastructure (OCI) Resource Manager to setup
+Agenda
 <ul><li>
     Lab 1: A Virtual Cloud Network (VCN) </li><li>
     Lab 2: A Compute VM instance</li><li>
@@ -16,15 +15,16 @@ Prerequisites
 <li>
      SSH Keys. Follow instructions <a href="#">here</a>
 
-<h>About Terraform and Oracle Cloud Resource Manager</h>
-Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. 
-OCI Resource Manager is service that allows you to automate the process of provisioning your OCI resources. Using Terraform, Resource Manager helps you install, configure, and manage resources through the "infrastructure-as-code" model. 
+About Terraform and Oracle Cloud Resource Manager
+
+Terraform is a tool for "infrastructure-as-code". 
+OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. 
 
 Let's begin.
 
-<h>Lab 1:</h>
+Lab 1:
 Steps:
 <ol>
 <li>On landing page after login to your OCI account, click up the hamburger menu on the left hand corner. Scroll down to <b>Identity</b> and click on the submenu <b>Compartments</b> as shown in image below:
-<img src="/images/GotoCompartmentsMenu.png"/>
+<img height="120px" src="/images/GotoCompartmentsMenu.png"/>
 </ol>
