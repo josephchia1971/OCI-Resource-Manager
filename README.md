@@ -1,3 +1,9 @@
+
+<style type="text/css">
+hr {
+height: 20px;
+}
+
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).
 
@@ -26,6 +32,8 @@ Steps:
 <li>After login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and navigate the mouse to the submenu <b>Compartments</b> as shown in image below:
 </li>
 <img height="400px" src="/images/GotoCompartmentsMenu.png"/>
+<hr>
 <li>Click on <b>Compartments</b>. On next page, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
+<hr>
 <li><img height="400px" src="/images/CreateCompartmentHOL.png"/>Fill in the details as shown above</li>
 </ol>
