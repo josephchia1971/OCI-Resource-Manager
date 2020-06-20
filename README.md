@@ -14,8 +14,10 @@ Prerequisites
 </li>
 <li>
      SSH Keys. Follow instructions <a href="#">here</a>
+</li>
+<ul>
 
-<div style="font-style:bold;">Fact:</div>
+<p font-weight:bold;>Fact:</p>
 Terraform is a tool for "infrastructure-as-code". 
 OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. 
 
