@@ -8,10 +8,11 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 <b>Prerequisites</b><ul>
 <li> To run these labs you will need access to an Oracle Cloud Account. 
      You can obtain an Oracle Free Tier account by <a href="https://myservices.us.oraclecloud.com/mycloud/signup">clicking here</a>.</li>
-<li> SSH Keys. Follow instructions <a href="#">here</a></li><ul>
+<li> SSH Keys. Follow instructions <a href="#">here</a></li>
+<ul>
 
-<blockquote>
 <b>Fact:</b>
+<blockquote>
 Terraform is a tool for "infrastructure-as-code". 
 OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. 
 </blockquote>
