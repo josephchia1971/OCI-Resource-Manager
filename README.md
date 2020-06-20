@@ -26,5 +26,5 @@ Steps:
 <li>After login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and click on the submenu <b>Compartments</b> as shown in image below:
 </li>
 <img height="400px" src="/images/GotoCompartmentsMenu.png"/>
-<li>Click on <img width="110px" align="middle" src="/images/CreateCompartmentButton.png"/>, and find in the details as shown in image below</li>
+<li>Click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/>, and find in the details as shown in image below</li>
 </ol>
