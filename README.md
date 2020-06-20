@@ -26,5 +26,6 @@ Lab 1:
 Steps:
 <ol>
 <li>On landing page after login to your OCI account, click up the hamburger menu on the left hand corner. Scroll down to <b>Identity</b> and click on the submenu <b>Compartments</b> as shown in image below:
-<img height="120px" src="/images/GotoCompartmentsMenu.png"/>
+</li>
+<img height="400px" src="/images/GotoCompartmentsMenu.png"/>
 </ol>
