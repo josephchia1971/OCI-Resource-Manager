@@ -11,10 +11,12 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 <li> SSH Keys. Follow instructions <a href="#">here</a></li>
 </ul>
 
+<ul>
 <b>Fact:</b><blockquote>
 Terraform is a tool for "infrastructure-as-code". 
 OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. 
 </blockquote>
+</ul>
 
 Let's begin.
 
