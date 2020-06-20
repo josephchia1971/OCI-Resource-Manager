@@ -2,13 +2,13 @@
 Hands On Labs (HOL) using Resource Manager (Terraform) to create VCN, Compute and DBCS
 
 Objective:
-This lab will show you how utilize Oracle Cloud Infrastructure (OCI) Resource Manager to setup 
-    Part 1: A Virtal Cloud Network (VCN)
-    Part 2: A Compute VM instance
-    Part 3: A Oracle Database
-
+This lab will show you how utilize Oracle Cloud Infrastructure (OCI) Resource Manager to setup
+<ul><li>
+    Part 1: A Virtal Cloud Network (VCN) </li></li>
+    Part 2: A Compute VM instance</li><li>
+    Part 3: A Oracle Database</li>
+</ul>
 Prerequisites
-
 <ul>
 <li> To run these labs you will need access to an Oracle Cloud Account. 
      You can obtain an Oracle Free Tier account by <a href="https://myservices.us.oraclecloud.com/mycloud/signup">clicking here</a>.
