@@ -43,12 +43,13 @@ A compartment is a logical container, to organize and control access to the Orac
 <img height="300px" src="/images/GotoStacksMenu.png"/>
 <hr>
 <li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
+
 <img height="300px" src="/images/StacksInHOL.png"/>
 </li>
 <hr>
 <li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/VCN_Creation.zip" download>here</a> and drop it into the upload area.
 Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
-<img width="300px" src="/images/CreateStackPage.png"/>
+<img width="650px" src="/images/CreateStackPage.png"/>
 </li>
 <hr>
 
