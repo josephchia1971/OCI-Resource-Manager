@@ -1,16 +1,3 @@
-pre, xmp, plaintext, listing {
-    white-space: pre;
-}
-.markdown-body pre > code {
-    white-space: pre;
-}
-.markdown-body code {
-    white-space: nowrap;
-}
-<pre><code>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
-</code></pre>
-
-
 
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).  
@@ -115,6 +102,16 @@ Steps:
 <li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
 
 <img width="500px" src="/images/StacksInHOL.png"/>
+</li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/ComputeVM_Creation.zip" download>here</a> and drop it into the upload area.
+Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
+<img width="650px" src="/images/CreateComputeVM.png"/>
+</li>
+<hr>
+<li>Fill in the details as shown in screenshot below. Once done, click on the <b>Next</b> button.
+<img width="650px" src="/images/ConfigComputeVMVariables.png"/>
+</li>
+<hr>
+<li>Review input information is correct, click on the <b>Create</b> button.
 </li>
 </ol>
 
