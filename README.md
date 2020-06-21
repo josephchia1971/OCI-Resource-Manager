@@ -1,7 +1,7 @@
 
 <style type="text/css">
 hr {height: 2px;}
-</style>
+
 
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).
