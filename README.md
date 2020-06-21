@@ -1,7 +1,7 @@
 
 <style type="text/css">
 hr {height: 2px;}
-blockquote { font-style: italic}
+</style>
 
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).
@@ -17,9 +17,9 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 </ul>
 
 <ul>
-<b>Fun Fact:</b><blockquote>
-Terraform is a tool for "infrastructure-as-code". 
-OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. For more info on Resource Manager, read <a href="hhttps://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/resourcemanager.htm">here</a>. 
+**Fun Fact:**<blockquote>
+*Terraform is a tool for "infrastructure-as-code". 
+OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. For more info on Resource Manager, read <a href="hhttps://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/resourcemanager.htm">here</a>.* 
 </blockquote>
 </ul>
 
