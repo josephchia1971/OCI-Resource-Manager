@@ -41,7 +41,7 @@ A compartment is a logical container, to organize and control access to the Orac
 <li>Click on the hamburger menu on the top left hand corner. Scroll up until you see  <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
 </li>
 <img height="300px" src="/images/GotoStacksMenu.png"/>
-<li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="160px" align="middle" src="/images/CreateStackButton.png"/>.
+<li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="130px" align="middle" src="/images/CreateStackButton.png"/>.
 <img height="300px" src="/images/StacksInHOL.png"/>
 </li>
 
