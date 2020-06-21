@@ -1,3 +1,17 @@
+pre, xmp, plaintext, listing {
+    white-space: pre;
+}
+.markdown-body pre > code {
+    white-space: pre;
+}
+.markdown-body code {
+    white-space: nowrap;
+}
+<pre><code>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+</code></pre>
+
+
+
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).  
 
