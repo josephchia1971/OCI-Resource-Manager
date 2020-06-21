@@ -3,9 +3,9 @@
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).  
 
 **Agenda**<ul>
-    <li>Lab 1: A Virtual Cloud Network (VCN)</li>
-    </li>Lab 2: A Compute VM instance</li>
-    <li>Lab 3: A Oracle Database Cloud Service (DBCS) instance</li></ul>
+    <li>Lab 1: Create a Virtual Cloud Network (VCN)</li>
+    </li>Lab 2: Create a Compute VM instance</li>
+    <li>Lab 3: Create a Oracle Database Cloud Service (DBCS) instance</li></ul>
 <b>Prerequisites</b><ul>
 <li> An Oracle Cloud Account. 
      You can obtain an Oracle Free Tier account by <a href="https://myservices.us.oraclecloud.com/mycloud/signup">clicking here</a>.</li>
@@ -15,7 +15,7 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 <ul>
 <b>Fun Fact:</b><blockquote>
 Terraform is a tool for "infrastructure-as-code". 
-OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. For more info on Resource Manager, read <a href="hhttps://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/resourcemanager.htm">here</a>.* 
+OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. For more info on Resource Manager, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/resourcemanager.htm">here</a>.
 </blockquote>
 </ul>
 
@@ -90,7 +90,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <img width="650px" src="/images/VCNCreated.png"/>
 <hr>
 </ol>
-End of Lab1
+End of Lab 1
 <hr>
 
 ## Lab 2 - Create Compute VM Instance
@@ -134,14 +134,14 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
 </li>
 <li> Once completed, the Orange RMJ icon will turn Green (will take a few minutes).
- Congrats! Your Compute VM is now provisioned. 
-You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
+Congrats! Your Compute VM is now provisioned. 
+You can verify this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
 <hr>
 </li>
 <img width="500px" src="/images/GotoInstancesMenu.png"/>
 <img width="650px" src="/images/VMCreated.png"/>
 </ol>
-End of Lab2
+End of Lab 2
 <hr>
 
 ## Lab 3 - Create a Oracle Database Cloud Service (DBCS) instance
@@ -164,7 +164,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <img width="650px" src="/images/ConfigDBCSVariables.png"/>
 </li>
 <hr>
-<li>Review input information is correct, click on the <b>Create</b> button.
+<li>Review input information is correct. (Be mindful of the stringent criteria for DB_ADMIN_PASSWORD). When done, click on the <b>Create</b> button.
 </li>
 <img width="550px" src="/images/ConfirmDBCS.png"/>
 <hr>
@@ -182,14 +182,15 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
 </li>
-<li> Once completed, the Orange RMJ icon will turn Green (will take a while).
- Congrats! Your Database is now provisioned. 
-You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
+<li> The Orange RMJ icon indicates work-in-progress. Last I tested, it took slightly less than 2 hours to complete.
+When your RMJ icon turns Green, you are done!
+Congrats! Your Database is now provisioned. 
+You can verify this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
 <hr>
 </li>
-<img width="500px" src="/images/GotoInstancesMenu.png"/>
-<img width="650px" src="/images/VMCreated.png"/>
+<img width="500px" src="/images/GotoDBCSMenu.png"/>
+<img width="650px" src="/images/DBCSCreated.png"/>
 </ol>
-End of Lab2
+End of Lab 3
 <hr>
 
