@@ -81,6 +81,8 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.</li>
 <hr>
-<li> RMJ icon will temporarily turn Orange and then turn Green when its completed. Your Virtual Cloud Network (VCN) has now been provisioned. You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Networking</b>. Navigate and click on the submenu <b>Virtual Cloud Networks</b> (shown below)</li>
+<li> RMJ icon will temporarily turn Orange and then turn Green when its completed. Congrats! Your Virtual Cloud Network (VCN) is now provisioned. You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Networking</b>. Navigate and click on the submenu <b>Virtual Cloud Networks</b> (shown below)
+</li>
 <img width="500px" src="/images/GotoVCNMenu.png"/>
+<img width="500px" src="/images/VCNCreated.png"/>
 </ol>
