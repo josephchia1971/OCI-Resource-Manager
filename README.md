@@ -4,7 +4,7 @@ hr {
 height: 2px;
 }
 blockquote {
-    font-style:italic;
+    font-style: italic;
 }
 </style>
 
