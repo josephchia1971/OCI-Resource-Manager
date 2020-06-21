@@ -21,7 +21,7 @@ OCI Resource Manager is service that allows you to leverage on Terraform to auto
 Let's begin.
 <hr>
 
-## Lab 1
+## Lab 1 - Create Virtual Cloud Network
 Steps:
 <ol>
 <li>After login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and navigate the mouse to the submenu <b>Compartments</b> as shown in image below:
@@ -88,6 +88,20 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 </ol>
 End of Lab1
+<hr>
 
+## Lab 2 - Create Compute VM Instance
+
+Steps:
+<ol>
+<li>Login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll to <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
+</li>
+<img height="300px" src="/images/GotoStacksMenu.png"/>
+<hr>
+<li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
+
+<img width="500px" src="/images/StacksInHOL.png"/>
+</li>
+</ol>
 
 
