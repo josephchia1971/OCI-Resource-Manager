@@ -6,9 +6,9 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
     </li>Lab 2: A Compute VM instance</li>
     <li>Lab 3: A Oracle Database</li></ul>
 <b>Prerequisites</b><ul>
-<li> To run these labs you will need access to an Oracle Cloud Account. 
+<li> An Oracle Cloud Account. 
      You can obtain an Oracle Free Tier account by <a href="https://myservices.us.oraclecloud.com/mycloud/signup">clicking here</a>.</li>
-<li> SSH Keys. Follow instructions <a href="#">here</a></li>
+<li> SSH Keys. You can create the keys by following instructions <a href="https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/compute-iaas/generating_ssh_key/generate_ssh_key.html">here</a></li>
 </ul>
 
 <ul>
@@ -43,6 +43,10 @@ A compartment is a logical container, to organize and control access to the Orac
 <img height="300px" src="/images/GotoStacksMenu.png"/>
 <li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
 <img height="300px" src="/images/StacksInHOL.png"/>
+</li>
+<li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/VCN_Creation.zip" download>here</a> and drop it into the upload area.
+Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
+<img weight="300px" src="/images/CreateStackPage.png"/>
 </li>
 
 </ol>
