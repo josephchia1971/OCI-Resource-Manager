@@ -63,5 +63,8 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 </li>
 <hr>
 <li>Now, we click on <b>Plan</b> as shown in the screenshot below. </li>
-<img width="500px" src="/images/ClickPlan.png"/>
+<img width="550px" src="/images/ClickPlan.png"/>
+<hr>
+<li>On the pop=screen, click on <img width="100px" align="middle" src="/images/PlanButton.png"/>
+</li>
 </ol>
