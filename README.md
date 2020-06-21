@@ -37,5 +37,9 @@ Steps:
 <li>Click on <b>Compartments</b>. On next page, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
 <hr>
 <img height="400px" src="/images/CreateCompartmentHOL.png"/>
-<li>Fill in the details as shown above, and click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/></li>
+<li>Fill in the details as shown above. Do note the (root) compartment will be yours instead of what is shown above. Once you are done, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/>. After a few seconds, You should see your newly created compartment in the table view.</li>
+<hr>
+<li>Next, click on the hamburger menu on the top left hand corner. Scroll up until you see  <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
+</li>
+<img height="400px" src="/images/GotoStacksMenu.png"/>
 </ol>
