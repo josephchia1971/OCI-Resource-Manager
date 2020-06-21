@@ -58,6 +58,8 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <img width="650px" src="/images/ConfigStackVariables.png"/>
 </li>
 <hr>
-<li><img width="500px" src="/images/ConfirmStack.png"/>Ensure input information is correct, click on the <b>Create</b> button.</li>
+<li>Review input information is correct (screenshot below), click on the <b>Create</b> button.
+<img width="600px" src="/images/ConfirmStack.png"/>
+</li>
 
 </ol>
