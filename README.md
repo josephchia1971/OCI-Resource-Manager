@@ -54,5 +54,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <img width="650px" src="/images/CreateStackPage.png"/>
 </li>
 <hr>
-
+<li>Fill in the details as shown in screenshot below. Once done, click on the <b>Next</b> button.
+<img width="650px" src="/images/ConfigStackVariables.png"/>
+</li>
 </ol>
