@@ -68,4 +68,14 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <li>On the displayed popup screen, click on <img width="50px" align="middle" src="/images/PlanButton.png"/> as shown below.
 </li>
 <img width="500px" src="/images/PopupPlanScreen.png"/>
+<hr>
+<li>On the Job Details display, the RMJ icon will turn Orange. After a while, the job will complete and RMJ icon will turn Green (shown below). 
+</li>
+<img width="500px" src="/images/RMJSucceeded.png"/>
+<hr>
+<li>Navigate up to the Stack Details page (shown below)</li>
+<img width="500px" src="/images/BacktoStackDetails.png"/>
+<hr>
+<li>Now, Apply the Plan (shown below)</li>
+<img width="500px" src="/images/ApplyPlan.png"/>
 </ol>
