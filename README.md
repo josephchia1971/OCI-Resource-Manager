@@ -133,7 +133,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
 </li>
-<li> Once completed, the Orange RMJ icon will Green (will take a few minutes).
+<li> Once completed, the Orange RMJ icon will turn Green (will take a few minutes).
  Congrats! Your Compute VM is now provisioned. 
 You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
 <hr>
@@ -166,24 +166,24 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>Review input information is correct, click on the <b>Create</b> button.
 </li>
-<img width="550px" src="/images/ConfirmComputeVM.png"/>
+<img width="550px" src="/images/ConfirmDBCS.png"/>
 <hr>
 <li>Click on <b>Plan</b> as shown in the screenshot below. 
 </li>
-<img width="550px" src="/images/ClickPlanVM.png"/>
+<img width="550px" src="/images/ClickPlanDBCS.png"/>
 <li>On the displayed popup screen, click on <img width="50px" align="middle" src="/images/PlanButton.png"/>.
 </li>
 <hr>
 <li>On the Job Details display, the RMJ icon will turn Orange. After a while, the job will complete and RMJ icon will turn Green. Navigate back to the Stack Details page (shown below)
 </li>
-<img width="500px" src="/images/BacktoStackDetailsVM.png"/>
+<img width="500px" src="/images/BacktoStackDetailsDBCS.png"/>
 <li>Apply the Plan (shown below)</li>
-<img width="500px" src="/images/ApplyPlanVM.png"/>
+<img width="500px" src="/images/ApplyPlanDBCS.png"/>
 <hr>
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
 </li>
-<li> Once completed, the Orange RMJ icon will Green (will take a few minutes).
- Congrats! Your Compute VM is now provisioned. 
+<li> Once completed, the Orange RMJ icon will turn Green (will take a while).
+ Congrats! Your Database is now provisioned. 
 You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
 <hr>
 </li>
