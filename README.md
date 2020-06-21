@@ -36,7 +36,7 @@ Steps:
 
 <ul>
 <b>Fun Fact:</b><blockquote>
-A compartment is a logical container, to organize and control access to the Oracle Cloud Infrastructure (OCI) Resources. You should create sub-compartments, (not your root compartment) to better manage your resources. For more info on compartments, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Tasks/managingcompartments.htm">here</a>. 
+A compartment is a logical container, to organize and control access to the Oracle Cloud Infrastructure (OCI) Resources. You should create sub-compartments, (not your root compartment) to better manage your resources. This is why we have created HOL to do our labs. For more info on compartments, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Tasks/managingcompartments.htm">here</a>. 
 </blockquote>
 </ul>
 
