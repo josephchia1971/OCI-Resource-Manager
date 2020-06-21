@@ -73,9 +73,14 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 </li>
 <img width="500px" src="/images/RMJSucceeded.png"/>
 <hr>
-<li>Navigate up to the Stack Details page (shown below)</li>
+<li>Navigate back to the Stack Details page (shown below)</li>
 <img width="500px" src="/images/BacktoStackDetails.png"/>
 <hr>
 <li>Now, Apply the Plan (shown below)</li>
 <img width="500px" src="/images/ApplyPlan.png"/>
+<hr>
+<li>The Apply Popup page will appear. Click on the <b>Apply</b> button.</li>
+<hr>
+<li> RMJ icon will temporarily turn Orange and then turn Green when its completed. Your Virtual Cloud Network (VCN) has now been provisioned. You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Networking</b>. Navigate and click on the submenu <b>Virtual Cloud Networks</b> (shown below)</li>
+<img width="500px" src="/images/GotoVCNMenu.png"/>
 </ol>
