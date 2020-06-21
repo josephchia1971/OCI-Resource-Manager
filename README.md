@@ -1,8 +1,12 @@
 
 <style type="text/css">
 hr {
-height: 5px;
+height: 2px;
 }
+blockquote {
+    font-style:italic;
+}
+</style>
 
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).
@@ -44,7 +48,7 @@ Steps:
 <img height="300px" src="/images/GotoStacksMenu.png"/>
 <ul>
 <b>Fun Fact:</b><blockquote>
-CA compartment is a logical container, to organize and control access to the Oracle Cloud Infrastructure (OCI) Resources. You should create sub-compartments, (not your root compartment) to better manage your resources. For more info on managing compartments, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Tasks/managingcompartments.htm">here</a>. 
+A compartment is a logical container, to organize and control access to the Oracle Cloud Infrastructure (OCI) Resources. You should create sub-compartments, (not your root compartment) to better manage your resources. For more info on compartments, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Tasks/managingcompartments.htm">here</a>. 
 </blockquote>
 </ul>
 
