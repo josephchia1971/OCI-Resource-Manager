@@ -21,7 +21,7 @@ OCI Resource Manager is service that allows you to leverage on Terraform to auto
 Let's begin.
 <hr>
 
-<b>Lab 1:</b>
+## Lab 1
 Steps:
 <ol>
 <li>After login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll down to <b>Identity</b> and navigate the mouse to the submenu <b>Compartments</b> as shown in image below:
@@ -84,6 +84,10 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <li> RMJ icon will temporarily turn Orange and then turn Green when its completed. Congrats! Your Virtual Cloud Network (VCN) is now provisioned. You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Networking</b>. Navigate and click on the submenu <b>Virtual Cloud Networks</b> (shown below)
 </li>
 <img width="500px" src="/images/GotoVCNMenu.png"/>
-
 <img width="650px" src="/images/VCNCreated.png"/>
+<hr>
 </ol>
+End of Lab1
+
+
+
