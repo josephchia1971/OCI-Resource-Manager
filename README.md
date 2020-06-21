@@ -1,12 +1,7 @@
-
-<style type="text/css">
-hr {height: 2px;}
-
-
 # OCI-Resource-Manager
 Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Oracle Cloud Infrastructure (OCI).
 
-<b>Agenda</b><ul>
+**Agenda**<ul>
     <li>Lab 1: A Virtual Cloud Network (VCN)</li>
     </li>Lab 2: A Compute VM instance</li>
     <li>Lab 3: A Oracle Database</li></ul>
