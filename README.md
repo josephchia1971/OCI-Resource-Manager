@@ -59,7 +59,9 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 </li>
 <hr>
 <li>Review input information is correct (screenshot below), click on the <b>Create</b> button.
-<img width="600px" src="/images/ConfirmStack.png"/>
+<img width="650px" src="/images/ConfirmStack.png"/>
 </li>
-
+<hr>
+<li>Now, we click on <b>Plan</b> as shown in the screenshot below. </li>
+<img width="500px" src="/images/ClickPlan.png"/>
 </ol>
