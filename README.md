@@ -5,7 +5,7 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 **Agenda**<ul>
     <li>Lab 1: A Virtual Cloud Network (VCN)</li>
     </li>Lab 2: A Compute VM instance</li>
-    <li>Lab 3: A Oracle Database</li></ul>
+    <li>Lab 3: A Oracle Database Cloud Service (DBCS) instance</li></ul>
 <b>Prerequisites</b><ul>
 <li> An Oracle Cloud Account. 
      You can obtain an Oracle Free Tier account by <a href="https://myservices.us.oraclecloud.com/mycloud/signup">clicking here</a>.</li>
@@ -82,7 +82,9 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.</li>
 <hr>
-<li> RMJ icon will temporarily turn Orange and then turn Green when its completed. Congrats! Your Virtual Cloud Network (VCN) is now provisioned. You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Networking</b>. Navigate and click on the submenu <b>Virtual Cloud Networks</b> (shown below)
+<li> Once completed, the Orange RMJ icon will turn Green.
+ Congrats! Your Virtual Cloud Network (VCN) is now provisioned. 
+ You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Networking</b>. Navigate and click on the submenu <b>Virtual Cloud Networks</b> (shown below)
 </li>
 <img width="500px" src="/images/GotoVCNMenu.png"/>
 <img width="650px" src="/images/VCNCreated.png"/>
@@ -104,15 +106,90 @@ Steps:
 <img width="500px" src="/images/StacksInHOL.png"/>
 </li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/ComputeVM_Creation.zip" download>here</a> and drop it into the upload area.
 Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
+
 <img width="650px" src="/images/CreateComputeVM.png"/>
 </li>
 <hr>
 <li>Fill in the details as shown in screenshot below. Once done, click on the <b>Next</b> button.
+
 <img width="650px" src="/images/ConfigComputeVMVariables.png"/>
 </li>
 <hr>
 <li>Review input information is correct, click on the <b>Create</b> button.
 </li>
+<img width="550px" src="/images/ConfirmComputeVM.png"/>
+<hr>
+<li>Click on <b>Plan</b> as shown in the screenshot below. 
+</li>
+<img width="550px" src="/images/ClickPlanVM.png"/>
+<li>On the displayed popup screen, click on <img width="50px" align="middle" src="/images/PlanButton.png"/>.
+</li>
+<hr>
+<li>On the Job Details display, the RMJ icon will turn Orange. After a while, the job will complete and RMJ icon will turn Green. Navigate back to the Stack Details page (shown below)
+</li>
+<img width="500px" src="/images/BacktoStackDetailsVM.png"/>
+<li>Apply the Plan (shown below)</li>
+<img width="500px" src="/images/ApplyPlanVM.png"/>
+<hr>
+<li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
+</li>
+<li> Once completed, the Orange RMJ icon will Green (will take a few minutes).
+ Congrats! Your Compute VM is now provisioned. 
+You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
+<hr>
+</li>
+<img width="500px" src="/images/GotoInstancesMenu.png"/>
+<img width="650px" src="/images/VMCreated.png"/>
 </ol>
+End of Lab2
+<hr>
 
+## Lab 3 - Create a Oracle Database Cloud Service (DBCS) instance
+<ol>
+<li>Login to your OCI account, click on the hamburger menu on the top left hand corner. Scroll to <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
+</li>
+<img height="300px" src="/images/GotoStacksMenu.png"/>
+<hr>
+<li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
+
+<img width="500px" src="/images/StacksInHOL.png"/>
+</li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/DBCS_Creation.zip" download>here</a> and drop it into the upload area.
+Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
+
+<img width="650px" src="/images/CreateDBCSInstance.png"/>
+</li>
+<hr>
+<li>Fill in the details as shown in screenshot below. Once done, click on the <b>Next</b> button.
+
+<img width="650px" src="/images/ConfigDBCSVariables.png"/>
+</li>
+<hr>
+<li>Review input information is correct, click on the <b>Create</b> button.
+</li>
+<img width="550px" src="/images/ConfirmComputeVM.png"/>
+<hr>
+<li>Click on <b>Plan</b> as shown in the screenshot below. 
+</li>
+<img width="550px" src="/images/ClickPlanVM.png"/>
+<li>On the displayed popup screen, click on <img width="50px" align="middle" src="/images/PlanButton.png"/>.
+</li>
+<hr>
+<li>On the Job Details display, the RMJ icon will turn Orange. After a while, the job will complete and RMJ icon will turn Green. Navigate back to the Stack Details page (shown below)
+</li>
+<img width="500px" src="/images/BacktoStackDetailsVM.png"/>
+<li>Apply the Plan (shown below)</li>
+<img width="500px" src="/images/ApplyPlanVM.png"/>
+<hr>
+<li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
+</li>
+<li> Once completed, the Orange RMJ icon will Green (will take a few minutes).
+ Congrats! Your Compute VM is now provisioned. 
+You can verfy this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
+<hr>
+</li>
+<img width="500px" src="/images/GotoInstancesMenu.png"/>
+<img width="650px" src="/images/VMCreated.png"/>
+</ol>
+End of Lab2
+<hr>
 
