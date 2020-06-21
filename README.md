@@ -12,14 +12,14 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 </ul>
 
 <ul>
-<b>Fun Fact:<b/><blockquote>
-*Terraform is a tool for "infrastructure-as-code". 
+<b>Fun Fact:</b><blockquote>
+Terraform is a tool for "infrastructure-as-code". 
 OCI Resource Manager is service that allows you to leverage on Terraform to automate the process of provisioning your OCI resources. For more info on Resource Manager, read <a href="hhttps://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/resourcemanager.htm">here</a>.* 
 </blockquote>
 </ul>
 
 Let's begin.
-<hr height="2px">
+<hr>
 
 <b>Lab 1:</b>
 Steps:
@@ -32,14 +32,14 @@ Steps:
 <hr>
 <img height="400px" src="/images/CreateCompartmentHOL.png"/>
 <li>Fill in the details as shown above. Do note the (root) compartment will be yours instead of what is shown above. Once you are done, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/>. After a few seconds, You should see your newly created compartment in the table view.</li>
-<hr>
-<li>Next, click on the hamburger menu on the top left hand corner. Scroll up until you see  <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
-</li>
-<img height="300px" src="/images/GotoStacksMenu.png"/>
-<ul>
+
 <b>Fun Fact:</b><blockquote>
 A compartment is a logical container, to organize and control access to the Oracle Cloud Infrastructure (OCI) Resources. You should create sub-compartments, (not your root compartment) to better manage your resources. For more info on compartments, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Tasks/managingcompartments.htm">here</a>. 
 </blockquote>
 </ul>
-
+<hr>
+<li>Click on the hamburger menu on the top left hand corner. Scroll up until you see  <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
+</li>
+<img height="300px" src="/images/GotoStacksMenu.png"/>
+<ul>
 </ol>
