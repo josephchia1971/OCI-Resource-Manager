@@ -33,10 +33,12 @@ Steps:
 <li>Fill in the details as shown below. Do note the (root) compartment will be yours instead of what is shown above. Once you are done, click on <img width="160px" align="middle" src="/images/CreateCompartmentButton.png"/>. After a few seconds, You should see your newly created compartment in the table view.</li>
 <img height="400px" src="/images/CreateCompartmentHOL.png"/>
 
+<ul>
 <b>Fun Fact:</b><blockquote>
 A compartment is a logical container, to organize and control access to the Oracle Cloud Infrastructure (OCI) Resources. You should create sub-compartments, (not your root compartment) to better manage your resources. For more info on compartments, read <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Tasks/managingcompartments.htm">here</a>. 
 </blockquote>
 </ul>
+
 <hr>
 <li>Click on the hamburger menu on the top left hand corner. Scroll up until you see  <b>Resource Manager</b> and navigate the mouse to the submenu <b>Stacks</b> as shown in image below:
 </li>
