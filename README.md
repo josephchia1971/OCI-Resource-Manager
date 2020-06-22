@@ -166,7 +166,6 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>Review input information is correct. (Be mindful of the stringent criteria for DB_ADMIN_PASSWORD). When done, click on the <b>Create</b> button.
 </li>
-<img width="550px" src="/images/ConfirmDBCS.png"/>
 <hr>
 <li>Click on <b>Plan</b> as shown in the screenshot below. 
 </li>
