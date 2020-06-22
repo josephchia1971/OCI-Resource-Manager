@@ -4,7 +4,7 @@ Hands On Labs (HOL) using Resource Manager (Terraform) to create resources in Or
 
 **Agenda**<ul>
     <li>Lab 1: Create a Virtual Cloud Network (VCN)</li>
-    </li>Lab 2: Create a Compute VM instance</li>
+    <li>Lab 2: Create a Compute VM instance</li>
     <li>Lab 3: Create a Oracle Database Cloud Service (DBCS) instance</li></ul>
 <b>Prerequisites</b><ul>
 <li> An Oracle Cloud Account. 
