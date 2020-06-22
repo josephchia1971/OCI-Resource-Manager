@@ -182,7 +182,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>The Apply Popup page will appear. Click on the <b>Apply</b> button.
 </li>
-<li> The Orange RMJ icon indicates work-in-progress. Last I tested, it took slightly less than 2 hours to complete.
+<li> The Orange RMJ icon indicates work-in-progress. Last I tested, it took sabout 15 minutes to complete.
 When your RMJ icon turns Green, you are done!
 Congrats! Your Database is now provisioned. 
 You can verify this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
