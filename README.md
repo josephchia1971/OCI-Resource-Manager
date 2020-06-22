@@ -104,7 +104,7 @@ Steps:
 <li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
 
 <img width="500px" src="/images/StacksInHOL.png"/>
-</li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/ComputeVM_Creation.zip" download>here</a> and drop it into the upload area.
+</li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the <b>ComputeVM_Creation.zip</b> file <a href="https://github.com/josephchia1971/OCI-Resource-Manager/raw/master/files/ComputeVM_Creation.zip">here</a> and drop it into the upload area.
 Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
 
 <img width="650px" src="/images/CreateComputeVM.png"/>
@@ -153,7 +153,7 @@ End of Lab 2
 <li>Click on submenu <b>Stacks</b>. Stacks page will appear. Make sure the compartment is <b>HOL</b>. Otherwise, select the compartment from the dropdownlist on the left (shown below). Once you are done, click on <img width="100px" align="middle" src="/images/CreateStackButton.png"/>.
 
 <img width="500px" src="/images/StacksInHOL.png"/>
-</li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the zip file <a href="files/DBCS_Creation.zip" download>here</a> and drop it into the upload area.
+</li><li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the <b>DBCS_Creation.zip</b> file <a href="https://github.com/josephchia1971/OCI-Resource-Manager/raw/master/files/DBCS_Creation.zip">here</a> and drop it into the upload area.
 Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
 
 <img width="650px" src="/images/CreateDBCSInstance.png"/>
