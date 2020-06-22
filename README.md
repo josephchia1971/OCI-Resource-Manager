@@ -169,6 +169,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <hr>
 <li>Click on <b>Plan</b> as shown in the screenshot below. 
 </li>
+
 <img width="550px" src="/images/ClickPlanDBCS.png"/>
 <li>On the displayed popup screen, click on <img width="50px" align="middle" src="/images/PlanButton.png"/>.
 </li>
@@ -184,7 +185,7 @@ Fill in the rest of details as shown below. Once done, click on the <b>Next</b> 
 <li> The Orange RMJ icon indicates work-in-progress. Last I tested, it took sabout 15 minutes to complete.
 When your RMJ icon turns Green, you are done!
 Congrats! Your Database is now provisioned. 
-You can verify this by clicking on the top left hamburger menu and scroll up till you see <b>Compute</b>. Navigate and click on the submenu <b>Instances</b> (shown below)
+You can verify this by clicking on the top left hamburger menu and scroll up till you see <b>Bare Metal, VM, and Exadata</b>. Click on it. (shown below)
 <hr>
 </li>
 <img width="500px" src="/images/GotoDBCSMenu.png"/>
