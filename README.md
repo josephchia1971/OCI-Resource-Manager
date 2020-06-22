@@ -50,7 +50,7 @@ A compartment is a logical container, to organize and control access to the Orac
 <img width="500px" src="/images/StacksInHOL.png"/>
 </li>
 <hr>
-<li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the <b>VCN_Creation.zip</b> file <a id="raw-url" href="https://raw.githubusercontent.com/josephchia1971/OCI-Resource-Manager/master/files/VCN_Creation.zip">here</a> and drop it into the upload area.
+<li>On the create stack page, ensure <b>MY CONFIGURATION</b> is selected. Download the <b>VCN_Creation.zip</b> file <a id="raw-url" href="https://github.com/josephchia1971/OCI-Resource-Manager/raw/master/files/VCN_Creation.zip">here</a> and drop it into the upload area.
 Fill in the rest of details as shown below. Once done, click on the <b>Next</b> button.
 <img width="650px" src="/images/CreateStackPage.png"/>
 </li>
